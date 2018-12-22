@@ -1,0 +1,10 @@
+body {
+    text-align: center;
+    color: black;
+    background: url('http://www.themesltd.com/headers2/baby_burgers.png');
+}
+
+.container {
+    background-color: white;
+    padding: 30px 30px;
+}
